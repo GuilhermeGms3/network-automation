@@ -1,0 +1,4 @@
+ip,device_type,username,password
+192.168.1.1,cisco_ios,admin,1234
+192.168.1.2,mikrotik_routeros,admin,senha123
+192.168.1.3,hp_procurve,admin,admin

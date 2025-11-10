@@ -1,0 +1,3 @@
+hostname SW-AUTO
+snmp-server community public RO
+banner motd #Acesso restrito a pessoal autorizado#
